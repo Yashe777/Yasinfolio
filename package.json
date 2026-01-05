@@ -1,0 +1,22 @@
+{
+  "name": "yasin-ouchen-portfolio",
+  "version": "1.0.0",
+  "description": "Yasin Ouchen - Graphic & Web Designer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "graphic-design",
+    "web-design"
+  ],
+  "author": "Yasin Ouchen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
